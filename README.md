@@ -1,4 +1,4 @@
-#Terraform Azure
+# Terraform Azure
 
 This project deploys Ubuntu virtual machine in azure with Ubuntu 18.04-LTS image. 
 
