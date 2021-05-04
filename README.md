@@ -16,4 +16,7 @@ https://aka.ms/citadel/terraform
 
 https://aka.ms/terraform
 
-terraform init terraform plan terraform apply terraform destroy (To delete )
+terraform init 
+terraform plan 
+terraform apply 
+terraform destroy (To delete )
