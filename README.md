@@ -1,6 +1,6 @@
-# Terraform AZURE
-This project deploys virtual network with subnets, network security groups and VPN Gateway.
-Virtual network, subnets and network security groups can be customized.
+# Terraform Azure
+This project deploys windows virtual machine in azure with Windows Server 2019 Datacenter image.
+Change the admin username and password as required.
 This uses azure service principal to login to azure. Use the command below to create a service principal with azure CLI.
 
 az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/<subscription_id>"
