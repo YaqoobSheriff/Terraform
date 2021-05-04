@@ -1,4 +1,4 @@
-# Terraform
+# Terraform AZURE
 This project deploys virtual network with subnets, network security groups and VPN Gateway.
 Virtual network, subnets and network security groups can be customized.
 This uses azure service principal to login to azure. Use the command below to create a service principal with azure CLI.
